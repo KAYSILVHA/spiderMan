@@ -4,6 +4,7 @@
 @import url('componentes/_pills.css');
 @import url('componentes/_link-button.css');
 @import url('componentes/_gallery.css');
+
 .s-wrapper {
     display: flex;
     height: 100vh;
@@ -101,4 +102,5 @@
     background-image: url('../images/spiderman-tobey/movie-03/background.png');
     background-size: cover;
   }
+  
   
