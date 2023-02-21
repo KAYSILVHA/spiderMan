@@ -20,3 +20,18 @@
     border:solid 6px white;
     border-radius: 15px;
   }
+
+  @media (max-width: 570px){
+    .gallery{
+      padding: 10px;
+    }
+    .gallery ul{
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      left: 90px;
+    }
+    .gallery ul li:first-child{
+      margin-left: 25px;
+    }
+  }
