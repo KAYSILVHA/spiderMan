@@ -21,10 +21,7 @@
     border-radius: 15px;
   }
 
-  @media (max-width: 570px){
-    .gallery{
-      padding: 10px;
-    }
+  @media (max-width: 1025px){
     .gallery ul{
       display: flex;
       flex-direction: column;
