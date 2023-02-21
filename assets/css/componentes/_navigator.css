@@ -21,6 +21,9 @@
     margin-bottom: 0;
 
   }
+  .navigator ul li .s-btn__inicio{
+    font-size: 11px;
+  }
   
   .navigator ul li a{
     color: white;
