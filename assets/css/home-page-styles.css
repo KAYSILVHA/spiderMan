@@ -188,7 +188,7 @@ body[id^="spider-man-"] .s-card:not(.s-card--hovered) {
 
 @media (max-width: 570px){
   .s-menu{
-    font-size: 0.5rem;
+    font-size: 0.5%;
     width: 100%;
     text-align: center;
     position: relative;
@@ -199,7 +199,7 @@ body[id^="spider-man-"] .s-card:not(.s-card--hovered) {
   .s-card{
     border: 0.5rem solid white;
     width: 140%;
-    height: 70vh;
+    height: 60vh;
     position: absolute;
     transition: filter .5s ease-in-out;
 
