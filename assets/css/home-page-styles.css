@@ -187,6 +187,14 @@ body[id^="spider-man-"] .s-card:not(.s-card--hovered) {
 }
 
 @media (max-width: 570px){
+  body::before {
+    display: none;
+  }
+  body{
+    background-color: var(--primary-color);
+    background-image: url('/assets/images/homem_aranha-backgound.png') ;
+    
+  }
   .s-menu{
     font-size: 0.5rem;
     width: 100%;
